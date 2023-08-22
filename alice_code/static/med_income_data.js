@@ -1,4 +1,4 @@
-[{
+let medIncome = [{
   "_id": {
     "$oid": "64e28e1822db450cc28fec45"
   },
